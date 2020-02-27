@@ -20,6 +20,8 @@ MADS: including training videos
   - openpose: parsed OpenPose results
 ```
 
+## Annotation
+We use four numbers to represent the ground contact label for `Left Toe, Left Heel, Right Toe, Right Heel`. 0 means not in contact, 1 means in contact, -1 means not annotated.
 
 ## Credit
 Some of the videos from [Human3.6M](http://vision.imar.ro/human3.6m/description.php) or [MADS](http://visal.cs.cityu.edu.hk/research/mads/#download).
