@@ -1,0 +1,6 @@
+*npy
+*__pycache__
+*data
+*.idea
+
+ground_detector/dump/*
